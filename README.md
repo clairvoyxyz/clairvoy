@@ -1,2 +1,2 @@
-# clairvoy
+# Clairvoy
 Scalable AI Search Engine
